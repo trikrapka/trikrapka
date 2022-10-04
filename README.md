@@ -1,7 +1,7 @@
 # 💫 About Me:
 ![image](https://user-images.githubusercontent.com/57097736/193894039-a383a8a4-e18c-4c3f-990f-0d2add8832aa.png)
 ### My projects:
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/wikipedia.svg" />
+<img height="50" width="50" src="https://unpkg.com/simple-icons@v7/icons/wikipedia.svg" /> <h2>https://uk.wikipedia.org/wiki/Leaping_Cat</h2>
 
 
 ## 🌐 Socials:
