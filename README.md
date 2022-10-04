@@ -3,7 +3,7 @@
 ### My projects:
 <img height="30" width="30" src="https://unpkg.com/simple-icons@v7/icons/wikipedia.svg" /> <b5>https://uk.wikipedia.org/wiki/Leaping_Cat</b5>
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/googleplay.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/googleplay.svg" /> <b5>https://play.google.com/store/apps/details?id=com.leapingcat</b5>
 
 
 ## 🌐 Socials:
