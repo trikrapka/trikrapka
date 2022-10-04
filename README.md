@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/57097736/193894039-a383a8a4-e18c-4c3f-990f-0d2add8832aa.png)
 ### My projects:
 <img height="30" width="30" src="https://unpkg.com/simple-icons@v7/icons/wikipedia.svg" /> <b5>https://uk.wikipedia.org/wiki/Leaping_Cat</b5>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/googleplay.svg" />
 
 
 ## 🌐 Socials:
