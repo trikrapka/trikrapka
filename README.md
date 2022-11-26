@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif/>
+</div>
 # 💫 About Me:
 ![image](https://user-images.githubusercontent.com/57097736/193894039-a383a8a4-e18c-4c3f-990f-0d2add8832aa.png)
 ### My projects:
